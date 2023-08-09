@@ -33,3 +33,16 @@
 "Gurkan":
   - firstname: ["Kobi", "K. Gurkan", "Kobi Gurkan"]
     url: https://kobi.one/  
+
+"Asharov":
+  - firstname: ["Gilad", "G. Asharov", "Gilad Asharov"]
+    url: https://u.cs.biu.ac.il/~asharog/
+    
+"Loss":
+  - firstname: ["Julian", "J. Loss", "Julian Loss"]
+    url: https://www.julianloss.com/
+    
+"Patra":
+  - firstname: ["Arpita", "A. Patra", "Arpita Patra"]
+    url: https://www.csa.iisc.ac.in/~arpita/
+    

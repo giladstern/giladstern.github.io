@@ -9,8 +9,8 @@ nav_order: 5
 
 <hr>
 <h4>Introduction to Cryptography and Software Security</h4>
-<h5>2021 TA, 2023 Lecturer</h5>
-TA in the Hebrew University's inroductory cryptography and software security course. Due to be the lecturer in 2023.
+<h5>2021, 2023 TA</h5>
+TA in the Hebrew University's inroductory cryptography and software security course.
 
 <hr>
 <h4>Algorithms</h4>
