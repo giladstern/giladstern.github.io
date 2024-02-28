@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: I am a PhD student, studying at the Hebrew University in Jerusalem.
+subtitle: I am a PostDoc, working in Tel Aviv University.
 
 profile:
   align: right
@@ -20,4 +20,5 @@ I am particularly interested in such protocols in asynchronous and partially syn
 
 Recently, I've also been researching cryptography in distributed protocols, and the way these fields interact with each other.
 
-My PhD advisors are <a href='https://research.vmware.com/researchers/ittai-abraham'>Ittai Abraham</a> and <a href='https://www.cs.huji.ac.il/~dolev/'>Danny Dolev</a>.
+I am a PostDoc working with <a href='https://www.cs.cornell.edu/~rafael/'>Rafael Pass</a> in Tel Aviv University 
+My PhD advisors were <a href='https://research.vmware.com/researchers/ittai-abraham'>Ittai Abraham</a> and <a href='https://www.cs.huji.ac.il/~dolev/'>Danny Dolev</a>.
