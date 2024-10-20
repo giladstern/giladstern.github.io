@@ -124,6 +124,11 @@
             {{ periodical | strip }}
           </div>
         {%- endif %}
+		
+		  <!-- Journal/Book title and date -->
+		  {%- if entry.award %}
+            <em>Received the {{entry.award}}</em>
+          {%- endif %}
         
           <!-- Links/Buttons -->
           <div class="links">
