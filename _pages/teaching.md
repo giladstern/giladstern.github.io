@@ -21,6 +21,6 @@ TA in the Hebrew University's general algorithms course.
 <h4>Introduction to Computer Science</h4>
 <h5>2018-2019</h5>
 <p>TA in the Hebrew University's introductory programming and computer science course, taught in Python.</p>
-<p><color="blue">Received a teaching excellence award for the highest rated teacher.</color></p>
+<p style="color:blue;">Received a teaching excellence award for the highest rated teacher.</p>
 
 <hr>
