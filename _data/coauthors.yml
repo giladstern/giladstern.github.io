@@ -1,55 +1,55 @@
-"Abraham":
-  - firstname: ["Ittai", "I. Abraham", "Ittai Abraham"]
+"abraham":
+  - firstname: ["Ittai", "I."]
     url: https://research.vmware.com/researchers/ittai-abraham
 
-"Jovanovic":
-  - firstname: ["Philipp", "P. Jovanovic", "Philipp Jovanovic"]
+"jovanovic":
+  - firstname: ["Philipp", "P."]
     url: https://philipp.jovanovic.io/
 
-"Maller":
-  - firstname: ["Mary", "M. Maller", "Mary Maller"]
+"maller":
+  - firstname: ["Mary", "M."]
     url: https://www.marymaller.com/
 
-"Meiklejohn": 
-  - firstname: ["Sarah", "S. Meiklejohn", "Sarah Meiklejohn"]
+"meiklejohn": 
+  - firstname: ["Sarah", "S."]
     url: https://smeiklej.com/
 
-"Tomescu":
-  - firstname: ["Alin", "A. Tomescu", "Alin Tomescu"]
+"tomescu":
+  - firstname: ["Alin", "A."]
     url: https://alinush.github.io/
 
-"Dolev":
-  - firstname: ["Danny", "D. Dolev", "Danny Dolev"]
+"dolev":
+  - firstname: ["Danny", "D."]
     url: https://www.cs.huji.ac.il/~dolev/
 
-"Zohar":
-  - firstname: ["Aviv", "A. Zohar", "Aviv Zohar"]
+"zohar":
+  - firstname: ["Aviv", "A."]
     url: https://www.avivz.net/
 
-"Yaish":
-  - firstname: ["Aviv", "A. Yaish", "Aviv Yaish"]
+"yaish":
+  - firstname: ["Aviv", "A."]
     url: https://www.avivyaish.com/
 
-"Gurkan":
-  - firstname: ["Kobi", "K. Gurkan", "Kobi Gurkan"]
+"gurkan":
+  - firstname: ["Kobi", "K."]
     url: https://kobi.one/  
 
-"Asharov":
-  - firstname: ["Gilad", "G. Asharov", "Gilad Asharov"]
+"asharov":
+  - firstname: ["Gilad", "G."]
     url: https://u.cs.biu.ac.il/~asharog/
     
-"Loss":
-  - firstname: ["Julian", "J. Loss", "Julian Loss"]
+"loss":
+  - firstname: ["Julian", "J."]
     url: https://www.julianloss.com/
     
-"Patra":
-  - firstname: ["Arpita", "A. Patra", "Arpita Patra"]
+"patra":
+  - firstname: ["Arpita", "A."]
     url: https://www.csa.iisc.ac.in/~arpita/
     
-"Wagner":
-  - firstname: ["Benedikt", "B. Wagner", "Benedikt Wagner"]
+"wagner":
+  - firstname: ["Benedikt", "B."]
     url: https://benedikt-wagner.dev/
     
-"Yakoubov":
-  - firstname: ["Sophia", "S. Yakoubov", "Sophia Yakoubov"]
+"yakoubov":
+  - firstname: ["Sophia", "S."]
     url: https://web.mit.edu/sonka89/www/
